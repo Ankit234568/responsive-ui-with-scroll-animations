@@ -1,2 +1,2 @@
-# responsive-ui-with-scroll-animations
+# responsive-ui-with-scroll-animation_
 javascript , css , html
